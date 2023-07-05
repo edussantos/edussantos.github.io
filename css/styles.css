@@ -11,7 +11,7 @@
   --main-color: #54B689;
   --main-text-color: #FFF;
   --border-color: #999;
-  --bio-bg-color: #1E2A3A;
+  --bio-bg-color: #0c1d34;
   --bio-border-color: #293544;
   --about-bg-color: #111821;
 }
@@ -141,7 +141,7 @@
 
 #btn-projects ion-icon,
 #btn-projects span {
-  flex: 1 1 0;
+  padding: 5px;
 }
 
 #btn-projects ion-icon {
@@ -168,7 +168,7 @@
 
 .skills-box {
   flex: 1 1 33%;
-  max-width: 20%;
+  max-width: 21%;
   margin-bottom: 35px;
 }
 
